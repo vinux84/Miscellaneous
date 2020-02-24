@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1a736a4-4979-4c4e-8462-f3c5f54b30bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VE50vdAAvlR4MUaVTX59PvnjqJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Mikas_game">
+    <configuration name="Mikas_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="conkys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mikas_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conkyre" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="conkys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conkyre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Mikas_game" />
+        <item itemvalue="Python.conkyre" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1a736a4-4979-4c4e-8462-f3c5f54b30bb" name="Default Changelist" comment="" />
+      <created>1576805193620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576805193620</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="258" width="530" height="605" key="FileChooserDialogImpl" timestamp="1578965390501">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="690" y="258" width="530" height="605" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1578965390501" />
+    <state width="1893" height="355" key="GridCell.Tab.0.bottom" timestamp="1580938865638">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1893" height="355" key="GridCell.Tab.0.bottom/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1580938865638" />
+    <state width="1893" height="355" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1576993454011" />
+    <state width="1893" height="355" key="GridCell.Tab.0.center" timestamp="1580938865637">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1893" height="355" key="GridCell.Tab.0.center/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1580938865637" />
+    <state width="1893" height="355" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1576993454007" />
+    <state width="1893" height="355" key="GridCell.Tab.0.left" timestamp="1580938865637">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1893" height="355" key="GridCell.Tab.0.left/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1580938865637" />
+    <state width="1893" height="355" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1576993454007" />
+    <state width="1893" height="355" key="GridCell.Tab.0.right" timestamp="1580938865638">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1893" height="355" key="GridCell.Tab.0.right/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1580938865638" />
+    <state width="1893" height="355" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1576993454007" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1576808134480">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.34.1920.1046@0.34.1920.1046" timestamp="1576808134480" />
+    <state x="665" y="176" width="579" height="769" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578454314883">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="665" y="176" width="579" height="769" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.34.1920.1046@0.34.1920.1046" timestamp="1578454314883" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1578713405821">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.34.1920.1046@0.34.1920.1046" timestamp="1578713405821" />
+  </component>
+</project>
