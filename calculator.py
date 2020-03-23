@@ -46,7 +46,7 @@ def refresh():
 
     while True:
         clear()
-        print("Vincent's Calculator\n\n")
+        print("Calculator\n\n")
         break
 
 def clear():
