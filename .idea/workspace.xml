@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c1a736a4-4979-4c4e-8462-f3c5f54b30bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mikas_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/daughters_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kb.py" beforeDir="false" afterPath="$PROJECT_DIR$/kb.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,9 +103,25 @@
       <option name="presentableId" value="Default" />
       <updated>1576805193620</updated>
     </task>
+    <task id="LOCAL-00001" summary="New commit">
+      <created>1584985920584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584985920584</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="498" y="82" width="913" height="957" key="CommitChangelistDialog2" timestamp="1584985920475">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="498" y="82" width="913" height="957" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1584985920475" />
     <state x="690" y="258" width="530" height="605" key="FileChooserDialogImpl" timestamp="1578965390501">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
